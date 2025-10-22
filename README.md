@@ -1,6 +1,6 @@
-# Sentiment Analysis of Amazon Product Reviews
+# Sentiment Analysis
 
-This project conducts a comprehensive sentiment analysis on a large dataset of over 568K Amazon product reviews. The primary goal is to compare the effectiveness of different Natural Language Processing (NLP) techniques, from traditional lexicon-based methods to advanced pre-trained transformer models, in accurately classifying the sentiment of customer reviews.
+This project conducts a comprehensive sentiment analysis on a large dataset of over 568K Amazon Fine Food Reviews. The primary goal is to compare the effectiveness of different Natural Language Processing (NLP) techniques, from traditional lexicon-based methods to advanced pre-trained transformer models, in accurately classifying the sentiment of customer reviews.
 
 Due to computational limitations, this notebook performs a detailed analysis on a sample of the first 500 reviews to demonstrate the methodology.
 
